@@ -1,4 +1,4 @@
-# Hi, I’m Duy Pham! ![alt text](../panda.png)
+# Hi, I’m Duy Pham! ![alt text](https://cdn-icons-png.flaticon.com/128/8636/8636421.png)
 
 **`Data Science Student`**
 
